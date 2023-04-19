@@ -1,2 +1,2 @@
 # mysql_shack
-A Small shack for MySQL Database Administration.
+A Shack for MySQL Database Administration tasks.
